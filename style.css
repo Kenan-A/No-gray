@@ -1,0 +1,304 @@
+#main_body
+{
+background-color:rgba(0, 0, 0);
+}
+
+#h1_mainpage
+{
+font-size:60px;
+color:rgb(255,255,255);
+font-family: Franklin Gothic Medium ;
+text-shadow: 1px 1px ;
+margin-left: 40%;
+margin-right: 40%;
+}
+#h2_mainpage
+{
+  color:rgb(255,255,255);
+  font-size:30px;
+
+}
+.n-image
+{
+  width:auto;
+  height: auto;
+
+}
+.n-info
+{
+  font-size:20px;
+  font-family: Lucida Console;
+  color:rgb(255,255,255)
+}
+#intro_h3
+{
+  font-size: 25px;
+  color:rgb(0,0,0);
+  text-shadow:3px 0px rgb(255,255,255)
+}
+#a_2sec_page
+{
+  margin-left: 40%;
+  margin-right: 30%;
+  font-size:25px;
+  color:rgb(255,255,255);
+}
+#chapter1
+{
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Lucida Handwriting;
+
+
+}
+
+#chapter2
+{
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Lucida Handwriting;
+
+
+}
+#h1_page2
+{
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:30%;
+}
+#sketch1
+{
+  margin-left: 30%;
+  margin-right:40%;
+}
+#h3_page2
+{
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:30%;
+}
+#a_3sec_page
+
+{
+  margin-left: 40%;
+  margin-right: 30%;
+  font-size:25px;
+  color:rgb(0,0,0);
+}
+#chapter3
+{
+  color:rgb(255,255,255);
+  text-shadow: 2px 2px rgb(255,255,255);
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Lucida Handwriting;
+
+
+}
+#page3_body
+{
+  background-color:  rgb(0,0,0);
+}
+#sketch2
+{
+  margin-left: 20%;
+  margin-right:40%;
+}
+#a_4sec_page
+{
+  margin-left: 40%;
+  margin-right: 30%;
+  font-size:25px;
+  color:rgb(255,255,255);
+}
+#h1_page3
+{
+  color : rgb(255,255,255);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 20%;
+  margin-right:30%;
+}
+#page4_body
+{
+  background-color:  rgb(255,255,255);
+}
+#chapter4
+{
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Lucida Handwriting;
+
+
+}
+
+#sketch4
+{
+  margin-left: 30%;
+  margin-right:40%;
+}
+p
+{
+  font-size: 60px;
+}
+#h3_page3
+{
+  color:rgb(255,255,255);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 20%;
+  margin-right:30%;
+}
+#a_5sec_page
+{
+  color:rgb(0,0,0);
+  font-size: 30px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:30%;
+}
+#h1_page4
+{
+  color:rgb(0,0,0);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:20%;
+}
+#h3_page4
+{
+  color:rgb(0,0,0);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:20%;
+
+}
+#chapter5
+{
+  color:rgb(255,255,255);
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Lucida Handwriting;
+}
+#sketch5
+{
+  margin-left: 30%;
+  margin-right:40%;
+}
+#page5_body
+{
+  background-color:  rgb(0,0,0);
+}
+#a_6sec_page
+{
+  color:rgb(255,255,255);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 40%;
+  margin-right:40%;
+}
+#h1_page5
+{
+  color:rgb(255,255,255);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:20%;
+}
+
+#h3_page5
+{
+  color:rgb(255,255,255);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:30%;
+}
+#chapter6
+{
+  color:rgb(0,0,0);
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Lucida Handwriting;
+}
+#image
+{
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 500px;
+  height: 500px;
+}
+#h1_page6
+{
+  font-family: Rockwell	;
+
+}
+#h3_page6
+{
+  margin-left: 40%;
+  margin-right: 30%;
+}
+#h4_page6
+{
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size:35px;
+  font-family: Rockwell;
+}
+#a_7sec_page
+{
+color:rgb(0,0,0);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:40%;
+}
+#chapter7
+{
+  color:rgb(0,0,0);
+  margin-left: 38%;
+  margin-right: 30%;
+  font-size:55px;
+  font-family: Lucida Handwriting;
+}
+#h1_page7
+{
+  font-family: Rockwell	;
+  color:rgb(0,0,0);
+  font-size: 20px;
+  font-family:Lucida Console;
+  margin-left: 30%;
+  margin-right:20%;
+
+}
+#sketch6
+{
+  margin-left: 30%;
+  margin-right:40%
+}
+#h3_page7
+{
+  margin-left: 30%;
+  margin-right: 30%;
+  font-family: Rockwell	;
+  color:rgb(0,0,0);
+  font-size: 20px;
+  font-family:Lucida Console;
+
+}
+#KenanAlghythee
+{
+  color:rgb(0,0,0);
+  font-size: 30px;
+  font-family: Brush Script MT;
+  margin-left: 30%;
+}
